@@ -1,0 +1,8 @@
+Mike Runs: 1000 Score: 22.6524626
+Mike Runs: 1 Score: 2028.953
+Mike Runs: 1 Score: 826.2238
+Mike Runs: 1 Score: 811.2518
+Mike Runs: 1 Score: 1043.037
+Mike Runs: 1 Score: 123.6683
+Mike Runs: 100 Score: 118.558514
+Mike Runs: 100 Score: 118.265626
